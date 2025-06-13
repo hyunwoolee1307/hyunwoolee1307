@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - Degree: Master of Science of Earth and Environmental Sciences, Seoul National University
 - Contact: hyunwoo9174@outlook.com
 
-- 2023. Aug. -- 2025. Jan.: Staff, UST21
-- 2021. Sep. -- 2023. Aug.: Master's course, Seoul National University
-- 2010. Mar. -- 2019. Aug.: Bacheolar's course, Seoul National University
+- Aug. 2023 – Jan. 2025: Staff, UST21
+- Sep. 2021 – Aug. 2023: Master's course, Seoul National University
+- Mar. 2010 – Aug. 2019: Bacheolar's course, Seoul National University
