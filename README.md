@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Surname: Lee
 - Nationality: Republic of Korea
 - Degree: Master of Science of Earth and Environmental Sciences, Seoul National University
-- Contact: hyunwoolee488@gmail.com
+- Contact: hyunwoo9174@outlook.com
 
 - Aug. 2023 – Jan. 2025: Staff, UST21
 - Sep. 2021 – Aug. 2023: Master's course, Seoul National University
