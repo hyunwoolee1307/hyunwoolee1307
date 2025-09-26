@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**hyunwoolee052/hyunwoolee052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyunwoolee1307/hyunwoolee1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Name: Hyunwoo
-- Surname: Lee
-- Nationality: Republic of Korea
-- Degree: Master of Science of Earth and Environmental Sciences, Seoul National University
-- Contact: hyunwoo9174@outlook.com
-
-- Aug. 2023 – Jan. 2025: Staff, UST21
-- Sep. 2021 – Aug. 2023: Master's course, Seoul National University
-- Mar. 2010 – Aug. 2019: Bacheolar's course, Seoul National University
+- 🌱 I’m currently learning Julia.
+- 📫 How to reach me: hyunwoo9174@outlook.com
